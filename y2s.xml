@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="Exynoobs/android_kernel_samsung_exynos990" path="kernel/samsung/exynos990" remote="github" revision="lineage-19.1" />
+    <project name="Exynoobs/android_device_samsung_exynos990-common" path="device/samsung/exynos990-common" remote="github" revision="lineage-19.1" />
+    <project name="lucassbeiler/android_device_samsung_y2s" path="device/samsung/y2s" remote="github" revision="lineage-19.1" />
+    <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-19.1" />
+    <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-19.1" />
+</manifest>
